@@ -1,0 +1,94 @@
+body{
+    background-color:white
+}
+h1{ 
+   text-align: center;
+   color:aliceblues;
+   text-shadow: 2px 2px 4px black;
+   font-size: 60px;
+}
+.slogan{
+    text-align: center;
+    font-size: 25px;
+    
+}
+nav a{
+    background-color: #2d8cf0;
+    color: white;
+    padding: 15px;
+    margin: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+
+}
+#estoeselinicio{
+    background-color: aquamarine;
+    text-align: center;
+}
+#esteparrafopertenecealinicio{
+    text-align:center;
+    background-color: beige;
+    font-size: 20px    ;
+}
+#nosotros{ 
+    text-align: center;
+    color: blue;
+    
+}
+.nosotros{
+    text-align: center;
+    background-color:whitesmoke;
+    font-size: 20px;
+
+
+}
+#fotodelaferreteria{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+nav{
+    text-align: center
+}
+footer{text-align: center;padding: 12px;color: #666;font-size: 20px;}
+
+#promo{ text-align: center;
+font-size: 30px;
+color: aquamarine;
+
+}
+
+    
+#listadepromo{
+    text-align: center;
+    padding: 15px;
+}
+#catalogo{
+    text-align: center;
+    font-size: 30px;
+}
+    ul{
+        font-size: 30px;
+        
+    }
+    table{ width: 400px;
+    text-align: center;
+background-color: #666;}
+#GALERIA{
+    text-align: center;
+    font-size: 40px;
+}
+#CONTACTO{
+text-align: center;
+background-color: aquamarine;
+color: black;
+font-size: 40px;
+
+}
+form{ color:chocolate;
+font-family: 'Times New Roman', Times, serif;}
+#UBICACION{
+    text-align: center;
+    font-size: 40px;
+}
